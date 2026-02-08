@@ -1,12 +1,1 @@
-# 编译产出
-/target/
-**/*.rs.bk
-
-# Cargo输出
-Cargo.lock
-
-# 编辑器文件
-.idea/
-.vscode/
-*.swp
-.DS_Store
+/target
